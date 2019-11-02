@@ -48,4 +48,4 @@ vine==1.1.4
 webargs==1.8.1
 Werkzeug==0.12.2
 gensim
-nltk==3.2.1
+nltk==3.4.5
