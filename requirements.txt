@@ -11,7 +11,7 @@ Flask==0.12.2
 Flask-And-Redis==0.7
 Flask-APScheduler==1.8.0
 Flask-Celery-Helper==1.1.0
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-JWT==0.3.2
 Flask-JWT-Extended==3.3.4
 Flask-Mail==0.9.1
